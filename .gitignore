@@ -1,5 +1,5 @@
-/videos
-/reports
-/downloads
-/screenshots
-/node_modules
+cypress/videos
+cypress/reports
+cypress/downloads
+cypress/screenshots
+node_modules

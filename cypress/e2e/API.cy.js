@@ -168,7 +168,7 @@ describe('API do Serverest', () => {
         it('Deletar usuário por ID', () => {
             cy.del_user()
                 .then((response) => {
-                    expect(response.status).to.eq(200)
+                    expect(response.status).to.eq(201)
                     expect(response.body.message).to.eq('Registro excluído com sucesso')
                 })
         });
