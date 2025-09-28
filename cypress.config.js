@@ -1,6 +1,7 @@
 const { defineConfig } = require('cypress');
 
 module.exports = defineConfig({
+  requestTimeout: 15000,        // tempo para cy.request 15 segundos
   video: true,
   reporter: 'cypress-mochawesome-reporter',
   reporterOptions: {
