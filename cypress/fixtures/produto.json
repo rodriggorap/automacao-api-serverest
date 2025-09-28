@@ -1,0 +1,15 @@
+{
+    "criar_prod": {
+        "nome": "Curso Cypress Cadastro 12345h678",
+        "preco": 200,
+        "descricao": "Curso",
+        "quantidade": 100
+    },
+
+    "atlz_prod": {
+        "nome": "Curso Cypress Atualizado 123h45678",
+        "preco": 200,
+        "descricao": "Curso",
+        "quantidade": 100
+    }
+}

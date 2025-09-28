@@ -1,0 +1,15 @@
+{
+    "cria_usuario": {
+        "nome": "Automação Cypress",
+        "email": "teersutesfaahhjyjhs1234@qa.com",
+        "password": "teste",
+        "administrador": "true"
+    },
+
+    "atualizar_usuario": {
+        "nome": "Automação Cypress Atualizado",
+        "email": "teetstqsuhhfyaahjjs1234@qa.com",
+        "password": "teste1",
+        "administrador": "true"
+    }
+}

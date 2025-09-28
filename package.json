@@ -1,0 +1,21 @@
+{
+  "name": "cypressapi",
+  "version": "1.0.0",
+  "main": "cypress.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "cy:open": "cypress open --browser=chrome",
+    "cy:run": "cypress run --browser=chrome"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@types/cypress": "^0.1.6",
+    "cypress-mochawesome-reporter": "^4.0.2"
+  },
+  "dependencies": {
+    "cypress-plugin-api": "^2.11.2"
+  }
+}
